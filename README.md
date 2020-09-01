@@ -260,6 +260,134 @@ Qua bài viết này, hi vọng các bạn đã hiểu được SSH Keys là gì
 
 # Sử dụng VScode để làm việc với GitHub
 
+# Kết nối đến tài khoản GitHub từ Visual Studio
+Clone repo về máy#
+
+*Lấy đường dẫn Repo
+
+![1](https://user-images.githubusercontent.com/54676091/91835896-36ebb580-ec74-11ea-914d-76b8301dbd34.png)
+
+# Sử dụng Git để clone repo về máy
+
+Nhập:
+
+
+*git clone https://github.com/CloudNhanhoa/repo1.git
+
+
+# Chúng ta có thể sử dụng Git để thao tác trên PC hoặc sử dụng VScode để thuận tiện hơn trong việc Dev cũng như thao tác với Sourcecode
+
+Sử dụng VScode làm việc với Github#
+Mở *VScode File –> *Open Folder 
+*chọn folder vừa clone về chọn *Open
+
+
+![2](https://user-images.githubusercontent.com/54676091/91836144-921da800-ec74-11ea-9b50-276f1b4ab74b.png)
+
+*Thực hiện chỉnh sửa README.md và thêm file trên VScode chúng ta có thể thấy những file chỉnh sửa ở đây
+
+
+
+![3](https://user-images.githubusercontent.com/54676091/91836178-a06bc400-ec74-11ea-89e9-35d6afcfcc1c.png)
+
+
+
+VScode hỗ trợ các thao tác nhanh đối với git
+
+Git add chọn <h1>YES<h1> để add các file thay đổi
+
+
+![4](https://user-images.githubusercontent.com/54676091/91836276-c1ccb000-ec74-11ea-8c02-5ab94c7e3e87.png)
+
+
+Đặt commit name bấm *ENTER
+
+
+![5](https://user-images.githubusercontent.com/54676091/91836387-e88ae680-ec74-11ea-8e7e-18f686ea7336.png)
+
+
+
+  
+*Sau khi commit chúng ta có thể thấy được không còn file nào thay đổi
+
+
+![6](https://user-images.githubusercontent.com/54676091/91836485-0a846900-ec75-11ea-8ad1-7147b90deec3.png)
+
+
+*Thực hiện thao tác push lên repo tương ứng
+
+
+
+![7](https://user-images.githubusercontent.com/54676091/91836530-1a9c4880-ec75-11ea-9c82-2f7c6d9987a5.png)
+
+*Đăng nhập Username và password của repo
+
+
+![8](https://user-images.githubusercontent.com/54676091/91836577-2d168200-ec75-11ea-8884-26c58632ac6f.png)
+
+
+
+![9](https://user-images.githubusercontent.com/54676091/91836599-37d11700-ec75-11ea-8124-bb50e52c92ac.png)
+
+
+
+# Kiểm tra repo trên Github để thấy các thay đổi chúng ta vừa cập nhật
+
+
+
+![10](https://user-images.githubusercontent.com/54676091/91836643-491a2380-ec75-11ea-9a56-042abb2a526e.png)
+
+
+# .
+
+
+
+# Clone tài liệu từ Repo khác#
+Truy cập repo cần clone tài liệu và bấm *Fork
+
+![11](https://user-images.githubusercontent.com/54676091/91836727-65b65b80-ec75-11ea-9d60-44ae8bb0541a.png)
+
+*Quá trình *fork (clone) tài liệu sẽ tạo một bản sao của repo này trên tài khoản của bạn
+
+
+![12](https://user-images.githubusercontent.com/54676091/91836811-7ebf0c80-ec75-11ea-9cd2-4210b6550211.png)
+
+
+
+*Kiểm tra tài liệu trong repo của bạn chúng ta có thể thấy tài liệu vừa *Fork
+
+
+
+
+![13](https://user-images.githubusercontent.com/54676091/91836897-9f876200-ec75-11ea-9f76-ab07e7d304bd.png)
+
+
+
+
+# Lúc này sourcecode trên repo này chúng ta đã có hoàn toàn quyền chỉnh sửa bổ sung trên đó. Thao tác clone và chỉnh sửa giống như phía trên.
+
+
+
+
+Clone tài liệu từ Repo khác#
+Bài viết chỉ hướng dẫn cơ bản cách đăng ký và sử dụng VScode để làm việc cơ bản với Github. Các tính năng của Github bạn có thể tự bổ sung trong quá trình làm việc. Hy vọng bài viết có thể hữ
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
