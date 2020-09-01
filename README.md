@@ -50,7 +50,7 @@ Sau khi bạn đã kiểm tra các khóa SSH hiện có bạn có thể tạo m�
 
 Để định cấu hình tài khoản GitHub của bạn để sử dụng khóa ssh mới (hoặc hiện có;)bạn cũng cần thêm nó vào tài khoản GitHub của mình
 
-# kiểm tra kết nối ssh của bạn
+# Kiểm tra kết nối ssh của bạn
 
 Sau khi thiết lập khóa ssh của bạn và thêm vào tài khoản GitHub bạn có thể kiểm tra kết nối của mình
 
@@ -65,7 +65,7 @@ Bạn có thể bảo mật khóa ssh của mình và định cấu hình tác n
 
 
 
-# DeMO sử dụng khóa SSH ( SSH key )
+# Demo sử dụng khóa SSH ( SSH key )
 
 SSh keys là một phương thức xác nhận với máy chủ thông qua truy cập ssh bằng việc đối chiếu giữa một cặp keys bao gồm một khóa riêng tư(private key) và khóa công khai(public key) tương ứng,
 
@@ -191,9 +191,10 @@ Bật chế độ đăng nhập bằng SSH Keys: kích hoạt (uncomment) các t
 
 
 
-# 3. Sử dụng SSH Keys
+# Sử dụng SSH Keys
 
-Để sử dụng SSH Keys truy cập VPS, các bạn chỉ cần login thông qua các phần mềm SSH như PuTTy, Bitvise, ZOC và lựa chọn file Private Key đã tạo khi trước.
+Để sử dụng SSH Keys truy cập VPS, các bạn chỉ cần login thông qua các phần mềm SSH như 
+# PuTTy, Bitvise, ZOC và lựa chọn file Private Key đã tạo khi trước.
 
 
 
