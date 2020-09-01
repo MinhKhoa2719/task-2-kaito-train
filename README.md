@@ -194,14 +194,22 @@ Bật chế độ đăng nhập bằng SSH Keys: kích hoạt (uncomment) các t
 # Sử dụng SSH Keys
 
 Để sử dụng SSH Keys truy cập VPS, các bạn chỉ cần login thông qua các phần mềm SSH như 
-# PuTTy, Bitvise, ZOC và lựa chọn file Private Key đã tạo khi trước.
+*PuTTy, Bitvise, ZOC và lựa chọn file Private Key đã tạo khi trước.
 
 
 
 # Lưu ý: Thường xuyên đăng nhập bằng SSH Client nào thì dùng chính phần mềm ý tạo SSH Keys.
 
 
+
+# .
+
+
+
+
+
 # Đối với PuTTy
+
 
 Nếu sử dụng OpenSSH Keys (keys tạo bởi lệnh trong Linux/MacOS,…), bạn cần dùng PuTTygen để convert Private Key sang chuẩn đăng nhập với PuTTy.
 
@@ -260,14 +268,25 @@ Qua bài viết này, hi vọng các bạn đã hiểu được SSH Keys là gì
 
 # Sử dụng VScode để làm việc với GitHub
 
+
+# .
+
 # Kết nối đến tài khoản GitHub từ Visual Studio
+
+
+
 Clone repo về máy#
+
 
 *Lấy đường dẫn Repo
 
+
 ![1](https://user-images.githubusercontent.com/54676091/91835896-36ebb580-ec74-11ea-914d-76b8301dbd34.png)
 
+
+
 # Sử dụng Git để clone repo về máy
+
 
 Nhập:
 
@@ -277,8 +296,11 @@ Nhập:
 
 # Chúng ta có thể sử dụng Git để thao tác trên PC hoặc sử dụng VScode để thuận tiện hơn trong việc Dev cũng như thao tác với Sourcecode
 
+
 Sử dụng VScode làm việc với Github#
+
 Mở *VScode File –> *Open Folder 
+
 *chọn folder vừa clone về chọn *Open
 
 
@@ -343,6 +365,7 @@ Git add chọn <h1>YES<h1> để add các file thay đổi
 
 
 # Clone tài liệu từ Repo khác#
+
 Truy cập repo cần clone tài liệu và bấm *Fork
 
 ![11](https://user-images.githubusercontent.com/54676091/91836727-65b65b80-ec75-11ea-9d60-44ae8bb0541a.png)
@@ -370,7 +393,9 @@ Truy cập repo cần clone tài liệu và bấm *Fork
 
 
 Clone tài liệu từ Repo khác#
-Bài viết chỉ hướng dẫn cơ bản cách đăng ký và sử dụng VScode để làm việc cơ bản với Github. Các tính năng của Github bạn có thể tự bổ sung trong quá trình làm việc. Hy vọng bài viết có thể hữ
+
+
+Bài viết chỉ hướng dẫn cơ bản cách đăng ký và sử dụng VScode để làm việc cơ bản với Github. Các tính năng của Github bạn có thể tự bổ sung trong quá trình làm việc
 
   
   
