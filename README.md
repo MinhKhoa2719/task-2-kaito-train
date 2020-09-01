@@ -392,7 +392,7 @@ Truy cập repo cần clone tài liệu và bấm *Fork
 
 
 
-Clone tài liệu từ Repo khác#
+**Clone tài liệu từ Repo khác
 
 
 Bài viết chỉ hướng dẫn cơ bản cách đăng ký và sử dụng VScode để làm việc cơ bản với Github. Các tính năng của Github bạn có thể tự bổ sung trong quá trình làm việc
