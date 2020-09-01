@@ -6,7 +6,7 @@
 
 -Một tài khoản GitHub với nhiều repositories và tham gia vào những project đa dạng khác nhau đem đến cho bạn nhiều lợi ích đáng kể, có thể thay đổi sự nghiệp của bạn 
 
-# GitHub có 3 lợi ích chính 
+# 1- GitHub có 3 lợi ích chính 
 
 Nhìn vào lịch sử hoạt động của một tài khoản GItHub cho bạn biết nhiều điều:
 
@@ -85,7 +85,7 @@ Khi tạo ra một ssh key gồm có 3 thành phần:
 
 +Private Key (dạng file và string) – Bạn sẽ lưu file này vào máy tính, sau đó sẽ thiết lập cho PuTTY, WinSCP, MobaXterm,..để có thể login.
 
-# Keypharse (dạng string, cần ghi nhớ) – Mật khẩu để mở private key, khi đăng nhập vào server nó sẽ hỏi cái này.
++Keypharse (dạng string, cần ghi nhớ) – Mật khẩu để mở private key, khi đăng nhập vào server nó sẽ hỏi cái này.
 
 
 .
@@ -99,14 +99,21 @@ Quá trình tạo bạn cũng có thể nhập mật khẩu sử dụng Passphra
 PuTTy với ứng dụng PuTTygen. Ngoài ra, bạn có thể dùng (PuTTygen Portable).
 
 
-# ZOC với menu File/Create SSh Key Files.
+*ZOC với menu File/Create SSh Key Files.
 
 
-Bitvise SSH với Client key manager/Generate New.
+*Bitvise SSH với Client key manager/Generate New.
+
+
+
+
+# Tạo SSH
 
 
 # Tạo SSH Keys bằng PuTTyGen: 
-lựa chọn SSH-2 RSA và 2048 như hình rồi ấn Generate đồng thời rê chuột xung quanh khung trắng để khởi tạo các chuỗi ngẫu nhiên. Nếu bạn đã có Private 
+
+
+Lựa chọn SSH-2 RSA và 2048 như hình rồi ấn Generate đồng thời rê chuột xung quanh khung trắng để khởi tạo các chuỗi ngẫu nhiên. Nếu bạn đã có Private 
 Key thì chỉ cần nhấn Load để tạo Public Key tương ứng(dùng khi convert Private Key dạng OpenSSH sang).
 
 
@@ -141,7 +148,7 @@ Sau khi tạo xong, màn hình hiển thị Public Key. Bạn có thể thiết 
 
 
 
-# 2. Thêm Public Key vào VPS
+# Thêm Public Key vào VPS
 
 Đối với server Linux, bạn cần lưu thông tin Public Key tại ~/.ssh/authorized_keys để xác thực đăng nhập sử dụng SSH Keys.
 
