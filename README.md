@@ -187,7 +187,7 @@ Bật chế độ đăng nhập bằng SSH Keys: kích hoạt (uncomment) các t
 
 
 
-*service sshd restart*
+*service sshd restart
 
 
 
@@ -240,6 +240,7 @@ Bên cạnh đó, cũng nên vô hiệu hóa đăng nhập sử dụng mật kh�
 
 *PasswordAuthentication no
 
+
 Sau đó, khởi động lại SSH Service
 
 
@@ -256,9 +257,9 @@ Qua bài viết này, hi vọng các bạn đã hiểu được SSH Keys là gì
 
 
 
-#Sử dụng VScode để làm việc với GitHub
+# Sử dụng VScode để làm việc với GitHub
 
-chưa làm
+
 
 
 
